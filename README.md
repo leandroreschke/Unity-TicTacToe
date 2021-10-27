@@ -1,6 +1,6 @@
 # Unity - Tic Tac Toe
 
-You can compile tech demo yourself using Unity 2021.2 or download it from the [Release](https://github.com/leandroreschke/Unity-TicTacToe/releases/tag/v1.0) section
+You can compile this tech demo yourself using Unity 2021.2 or download it from the [Release](https://github.com/leandroreschke/Unity-TicTacToe/releases/tag/v1.0) section
 
 ## Sumary
 This is a simple Tic Tac Toe game, it was made to be a TECH DEMO, but that doesn't mean it can't be fun. 
